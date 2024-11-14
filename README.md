@@ -1,0 +1,1 @@
+In this code we will see how to use convolution which is a data signal processing concept to extract features from a time series data , create lags and then run a regression forecasting model. I have also used used convolution neural network to extract features and do forecasting
